@@ -1,8 +1,8 @@
 **#【ドローンによるPVの撮影手法について】**
 
-1A117162 森　玲子
+## 1A117162 森　玲子
 
-2019年度ゼミ論概要　
+### 2019年度ゼミ論概要　
 
 https://docs.google.com/document/d/1byJXRJ5HP0sg6D75-jGFYc0t3cKEgAWMUt96TyHPkj4/edit?usp=sharing
 
