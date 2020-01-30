@@ -45,11 +45,9 @@ https://docs.google.com/presentation/d/1lMSQKqL7e1oKE2KTKoSqZHnO2pdZaVhJBU6fb85B
 　この研究を通じて得られたこととして、ドローンを使用して映像を撮影する手法は複数存在し、撮影者はPV作成の目的や規模・完成作品の使用用途によって手法を適応させ判断しているということである。さらに、PV作成のために使用している撮影方法は決して非常に難易度の高いものではなく、ドローンを使用したことのない人でも練習を積み重ねていけば少しでもマスターできるようになると捉えた。次に引き継ぐべき課題として、実際にPV動画を作成する段階まで至らない状況となってしまっているため、これからドローン部の活動として予定している動画撮影や個人でも時間を設け、この研究を通じて得た手法や撮影テクニック・コツなどを活かしつつ撮影し映像作品を作成しなくてはならないと考える。  
 
  ## 参考文献      
- [参考文献リスト]: <https://docs.google.com/spreadsheets/d/1hGcTgnX2QdwCDT2MeYS_n3S0107DuE2ssCFvV8wt2N8/edit?usp=sharing>  
- [声に出して使ってみたくなるドローンの撮影テクニック6選]: <https://www.monosus.co.jp/posts/2018/12/142714.html>  
- [人気バンドのMVにも！ドローンだから出来る新しい自由視点映像！]: <https://viva-drone.com/drone-drama-freedom-movie/>  
- [新しい映像表現「オンナノコズ撮影の視点」]: <https://tabi-labo.com/287624/tc-fpv-drone>  
- [I Won't Let You Down/OK GoのMV撮影の裏側]: <http://wonderdriving.com/archives/2014/10/i-wont-let-you-downok-gomv.html>  
+ 参考文献リスト  
+ <https://docs.google.com/spreadsheets/d/1hGcTgnX2QdwCDT2MeYS_n3S0107DuE2ssCFvV8wt2N8/edit?usp=sharing>  
+ 
  
  ## 謝辞  
  
