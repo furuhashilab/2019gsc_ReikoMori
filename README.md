@@ -4,7 +4,7 @@
 ## 指導教員　古橋大地 教授  
 
 # 資料  
-## 2019年度ゼミ論文概要   
+## 2019年度ゼミ論文提出用印刷テンプレート   
 
 https://docs.google.com/document/d/1byJXRJ5HP0sg6D75-jGFYc0t3cKEgAWMUt96TyHPkj4/edit?usp=sharing   
 ## 最終発表用スライド資料  
@@ -44,6 +44,11 @@ https://docs.google.com/presentation/d/1lMSQKqL7e1oKE2KTKoSqZHnO2pdZaVhJBU6fb85B
  ## 参考文献  
  
  卒業論文本文中に記載。  
+ <https://docs.google.com/spreadsheets/d/1hGcTgnX2QdwCDT2MeYS_n3S0107DuE2ssCFvV8wt2N8/edit?usp=sharing>
+ <https://www.monosus.co.jp/posts/2018/12/142714.html>
+ <https://viva-drone.com/drone-drama-freedom-movie/>
+ <https://tabi-labo.com/287624/tc-fpv-drone>
+ <http://wonderdriving.com/archives/2014/10/i-wont-let-you-downok-gomv.html>
  
  ## 謝辞  
  
