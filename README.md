@@ -44,7 +44,7 @@ https://docs.google.com/presentation/d/1lMSQKqL7e1oKE2KTKoSqZHnO2pdZaVhJBU6fb85B
  ## 参考文献  
  
  卒業論文本文中に記載。  
- <https://docs.google.com/spreadsheets/d/1hGcTgnX2QdwCDT2MeYS_n3S0107DuE2ssCFvV8wt2N8/edit?usp=sharing>
+ 声に出して使ってみたくなるドローンの撮影テクニック6選<https://docs.google.com/spreadsheets/d/1hGcTgnX2QdwCDT2MeYS_n3S0107DuE2ssCFvV8wt2N8/edit?usp=sharing>
  <https://www.monosus.co.jp/posts/2018/12/142714.html>
  <https://viva-drone.com/drone-drama-freedom-movie/>
  <https://tabi-labo.com/287624/tc-fpv-drone>
